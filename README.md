@@ -17,14 +17,14 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](https://i.postimg.cc/Dfr5jCQp/Screenshot-2025-01-02-120901.png)
+![Portfolio Demo](https://mk825.github.io/portfolio-website/assets/images/demo.png)
 
 ---
 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://codervai.vercel.app/)
+[**Live Demo**](https://github.com/mk825/portfolio-website)
 ---
 ### 🎯 Project Structure
 ```bash
