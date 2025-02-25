@@ -28,12 +28,12 @@ export default function App() {
       ) : (
         // Router Mode: Use routes for navigation
         <Routes>
-          <Route path="/" element={<Hero />} />
-          <Route path="/skills" element={<Skills />} />
-          <Route path="/experience" element={<Experience />} />
-          <Route path="/education" element={<Education />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/projects" element={<Projects />} />
+          <Route path="/portfolio-website" element={<Hero />} />
+          <Route path="/portfolio-website/skills" element={<Skills />} />
+          <Route path="/portfolio-website/experience" element={<Experience />} />
+          <Route path="/portfolio-website/education" element={<Education />} />
+          <Route path="/portfolio-website/contact" element={<Contact />} />
+          <Route path="/portfolio-website/projects" element={<Projects />} />
         </Routes>
       )}
     </>
