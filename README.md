@@ -24,7 +24,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 ## Live Preview
 
 Check out the live preview of the portfolio website here:  
-[**Live Demo**](https://github.com/mk825/portfolio-website)
+[**Live Demo**](https://mk825.github.io/portfolio-website)
 ---
 ### 🎯 Project Structure
 ```bash
