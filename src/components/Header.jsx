@@ -27,22 +27,22 @@ export default function Header() {
   }, []);
 
   const navLinks = [
-    { id: "home", icon: FaHome, text: "Home", path: "/" },
-    { id: "skills", icon: FaCode, text: "Skills", path: "/skills" },
+    { id: "home", icon: FaHome, text: "Home", path: "/portfolio-website" },
+    { id: "skills", icon: FaCode, text: "Skills", path: "/portfolio-website/skills" },
     {
       id: "experience",
       icon: FaBriefcase,
       text: "Experience",
-      path: "/experience",
+      path: "/portfolio-website/experience",
     },
     {
       id: "education",
       icon: FaGraduationCap,
       text: "Education",
-      path: "/education",
+      path: "/portfolio-website/education",
     },
-    { id: "projects", icon: FaLaptopCode, text: "Projects", path: "/projects" },
-    { id: "contact", icon: FaEnvelope, text: "Contact", path: "/contact" },
+    { id: "projects", icon: FaLaptopCode, text: "Projects", path: "/portfolio-website/projects" },
+    { id: "contact", icon: FaEnvelope, text: "Contact", path: "/portfolio-website/contact" },
   ];
 
   return (

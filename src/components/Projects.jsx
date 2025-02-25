@@ -21,7 +21,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://relode.se/",
       },
-      image: "/src/assets/images/relode.png",
+      image: "/portfolio-website/assets/images/relode.png",
       featured: true,
     },{
       title: "RALLY ENERGY",
@@ -31,7 +31,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://www.rallyenergy.co/",
       },
-      image: "/src/assets/images/rally.png",
+      image: "/portfolio-website/assets/images/rally.png",
       featured: true,
     },{
       title: "Dirty Dog Beauty Club",
@@ -41,7 +41,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://www.dirtydogbeautyclub.com/",
       },
-      image: "/src/assets/images/dirtydog.png",
+      image: "/portfolio-website/assets/images/dirtydog.png",
       featured: true,
     },{
       title: "Le Nouveau Chef",
@@ -51,7 +51,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://lenouveauchef.com/",
       },
-      image: "/src/assets/images/le-nouveau-chef.png",
+      image: "/portfolio-website/assets/images/le-nouveau-chef.png",
       featured: true,
     },{
       title: "Mr Leight",
@@ -61,7 +61,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://www.garrettleight.com/",
       },
-      image: "/src/assets/images/mr-leight.png",
+      image: "/portfolio-website/assets/images/mr-leight.png",
       featured: true,
     },{
       title: "Carlin Wright",
@@ -71,7 +71,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://carlinwright.com/",
       },
-      image: "/src/assets/images/carlin_wright.png",
+      image: "/portfolio-website/assets/images/carlin_wright.png",
       featured: true,
     },{
       title: "Proppie",
@@ -81,7 +81,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://www.proppie.com.au/",
       },
-      image: "/src/assets/images/proppie.png",
+      image: "/portfolio-website/assets/images/proppie.png",
       featured: true,
     },{
       title: "FIX-IT",
@@ -91,7 +91,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://www.univision.mn/game/en/",
       },
-      image: "/src/assets/images/fix_it.png",
+      image: "/portfolio-website/assets/images/fix_it.png",
       featured: true,
     },{
       title: "PAPER & TEA",
@@ -101,7 +101,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://www.paperandtea.com/",
       },
-      image: "/src/assets/images/paper_tea.png",
+      image: "/portfolio-website/assets/images/paper_tea.png",
       featured: true,
     },{
       title: "AUSSIE BUCKETS",
@@ -111,7 +111,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://www.aussiebuckets.com.au/",
       },
-      image: "/src/assets/images/aussie_buckets.png",
+      image: "/portfolio-website/assets/images/aussie_buckets.png",
       featured: true,
     },{
       title: "Dagora",
@@ -121,7 +121,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://dagora.xyz/",
       },
-      image: "/src/assets/images/dagora.png",
+      image: "/portfolio-website/assets/images/dagora.png",
       featured: true,
     },{
       title: "Unick",
@@ -131,7 +131,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://unick.io/",
       },
-      image: "/src/assets/images/unick.png",
+      image: "/portfolio-website/assets/images/unick.png",
       featured: true,
     },{
       title: "Kompete-Game",
@@ -141,7 +141,7 @@ const ProjectShowcase = () => {
       links: {
         demo: "https://kompete.game/",
       },
-      image: "/src/assets/images/kompete.png",
+      image: "/portfolio-website/assets/images/kompete.png",
       featured: true,
     }
   ];

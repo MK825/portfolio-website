@@ -28,7 +28,7 @@ export default function App() {
       ) : (
         // Router Mode: Use routes for navigation
         <Routes>
-          <Route path="/portfolio-website" element={<Hero />} />
+          <Route path="/portfolio-website/" element={<Hero />} />
           <Route path="/portfolio-website/skills" element={<Skills />} />
           <Route path="/portfolio-website/experience" element={<Experience />} />
           <Route path="/portfolio-website/education" element={<Education />} />
